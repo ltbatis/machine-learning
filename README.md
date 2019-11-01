@@ -1,3 +1,3 @@
 
 
-Neste repositório irei armazenar meus conteúdos utilizados para estudar Machine Learning.
+In this repository I will store my contents used to study Machine Learning.
